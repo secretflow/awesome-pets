@@ -43,6 +43,10 @@ Since its invention in 1986, ZKP systems, more and more,  become building blocks
   *Justin Thaler*
   Tha23, [paper](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
+- A Survey on the Applications of Zero-Knowledge Proofs
+  *Ryan Lavin, Xuekai Liu, Hardhik Mohanty, Logan Norman, Giovanni Zaarour, Bhaskar Krishnamachari*
+  LLMNZK24, [paper](https://arxiv.org/html/2408.00243v1)
+
 ## Milestones
 
 - The Knowledge Complexity of Interactive Proof-Systems (**Invention of zero-knowledge**)
