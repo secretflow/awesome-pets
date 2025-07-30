@@ -138,3 +138,7 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 - Malicious Secure, Structure-Aware Private Set Intersection
   *Gayathri Garimella, Mike Rosulek, Jaspal Singh*
   CRYPTO 2023, [eprint](https://eprint.iacr.org/2023/1166), GRS23
+
+- O-Ring and K-Star: Efficient Multi-party Private Set Intersection
+  *Mingli Wu, Tsz Hon Yuen, Kwan Yin Chan*
+  USENIX 2024, [usenix](https://www.usenix.org/conference/usenixsecurity24/presentation/wu-mingli), WYC24
