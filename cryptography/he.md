@@ -182,7 +182,7 @@ Communications of the ACM, [paper](https://dl.acm.org/doi/pdf/10.1145/359340.359
 
 - Transistor: a TFHE-friendly Stream Cipher
   *Jules Baudrin, Sonia Bela¨ıd, Nicolas Bon, Christina Boura, Anne Canteaut, Ga¨etan Leurent, Pascal Paillier, L´eo Perrin, Matthieu Rivain, Yann Rotella, and Samuel Tap*
-  CRYPTO 2025, [paper](https://eprint.iacr.org/2020/1549.pdf), BBB+25
+  CRYPTO 2025, [paper](https://eprint.iacr.org/2025/282.pdf), BBB+25
 
 ### Multi-key FHE
 
