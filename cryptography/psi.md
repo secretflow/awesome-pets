@@ -138,3 +138,7 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 - Malicious Secure, Structure-Aware Private Set Intersection
   *Gayathri Garimella, Mike Rosulek, Jaspal Singh*
   CRYPTO 2023, [eprint](https://eprint.iacr.org/2023/1166), GRS23
+
+- Practical Multi-party Private Set Intersection from Symmetric-Key Techniques
+  *Vladimir Kolesnikov, Naor Matania, Benny Pinkas, Mike Rosulek, Ni Trieu*
+  CCS 2017, [eprint](https://eprint.iacr.org/2017/799.pdf), KMPR+17
