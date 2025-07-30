@@ -138,3 +138,7 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 - Malicious Secure, Structure-Aware Private Set Intersection
   *Gayathri Garimella, Mike Rosulek, Jaspal Singh*
   CRYPTO 2023, [eprint](https://eprint.iacr.org/2023/1166), GRS23
+
+- Efficient Linear Multiparty PSI and Extensions to Circuit/Quorum PSI
+  *Nishanth Chandran, Nishka Dasgupta, Divya Gupta, Sai Lakshmi Bhavana Obbattu, Sruthi Sekar, Akash Shah*
+  CCS 2021, [eprint](https://eprint.iacr.org/2021/172.pdf), CDGO+21
