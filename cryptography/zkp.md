@@ -514,6 +514,10 @@ Here just list several interesting applicaitons.
   *Tianyi Liu, Xiang Xie, and Yupeng Zhang*
   CCS 2021, [paper](https://eprint.iacr.org/2021/673), LXZ21
 
+- Zero-Knowledge Proofs for Large Language Models: A Survey and New Constructions  
+  *Haochen Sun, Jason Li, Hongyang Zhang*  
+  CCS 2024, [paper](https://arxiv.org/pdf/2404.16109), SLZ24  
+
 ### For Web3(Authentication)
 
 - Constant-Size Dynamic k-TAA
