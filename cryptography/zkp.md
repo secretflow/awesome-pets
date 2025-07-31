@@ -514,6 +514,10 @@ Here just list several interesting applicaitons.
   *Tianyi Liu, Xiang Xie, and Yupeng Zhang*
   CCS 2021, [paper](https://eprint.iacr.org/2021/673), LXZ21
 
+- Zero-Knowledge Proofs for Large Language Models: A Survey and New Constructions  
+  *Haochen Sun, Jason Li, Hongyang Zhang*  
+  CCS 2024, [paper](https://arxiv.org/pdf/2404.16109), SLZ24  
+
 ### For Web3(Authentication)
 
 - Constant-Size Dynamic k-TAA
@@ -545,6 +549,10 @@ Here just list several interesting applicaitons.
 - Zerocash: Decentralized Anonymous Payments from Bitcoin
   *Ben Sasson, Eli, Alessandro Chiesa, Christina Garman, Matthew Green, Ian Miers, Eran Tromer, and Madars Virza*
   S&P 2014, [paper](https://doi.org/10.1109/SP.2014.36), BCG+14
+
+- zkLedger: Privacy-Preserving Auditing for Distributed Ledgers
+  *Neha Narula, Willy Vasquez, Madars Virza*
+  USENIX NSDI 2018, [paper](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-narula.pdf), NVV18
 
 - ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-Knowledge Proofs
   *Samuel Steffen, Benjamin Bichsel, Roger Baumgartner, and Martin Vechev*
