@@ -550,6 +550,10 @@ Here just list several interesting applicaitons.
   *Ben Sasson, Eli, Alessandro Chiesa, Christina Garman, Matthew Green, Ian Miers, Eran Tromer, and Madars Virza*
   S&P 2014, [paper](https://doi.org/10.1109/SP.2014.36), BCG+14
 
+- zkLedger: Privacy-Preserving Auditing for Distributed Ledgers
+  *Neha Narula, Willy Vasquez, Madars Virza*
+  USENIX NSDI 2018, [paper](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-narula.pdf), NVV18
+
 - ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-Knowledge Proofs
   *Samuel Steffen, Benjamin Bichsel, Roger Baumgartner, and Martin Vechev*
   S&P 2022, [paper](https://files.sri.inf.ethz.ch/website/papers/sp22-zeestar.pdf), SBB+22
