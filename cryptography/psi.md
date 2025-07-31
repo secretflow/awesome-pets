@@ -139,6 +139,10 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   *Gayathri Garimella, Mike Rosulek, Jaspal Singh*
   CRYPTO 2023, [eprint](https://eprint.iacr.org/2023/1166), GRS23
 
+- Efficient Scalable Multi-Party Private Set Intersection(-Variants) from Bicentric Zero-Sharing
+  *Ying Gao, Yuanchao Luo, Longxin Wang, Xiang Liu, Lin Qi, Wei Wang, Mengmeng Zhou*
+  CCS 2024, [ccs](https://dl.acm.org/doi/10.1145/3658644.3690245), GLWL+24
+  
 - Practical Multi-party Private Set Intersection from Symmetric-Key Techniques
   *Vladimir Kolesnikov, Naor Matania, Benny Pinkas, Mike Rosulek, Ni Trieu*
   CCS 2017, [eprint](https://eprint.iacr.org/2017/799.pdf), KMPR+17
