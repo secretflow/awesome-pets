@@ -180,6 +180,10 @@ Communications of the ACM, [paper](https://dl.acm.org/doi/pdf/10.1145/359340.359
   *Yongwoo Lee, Daniele Micciancio, Andrey Kim, Rakyong Choi, Maxim Deryabin, Jieun Eom, Donghoon Yoo*
   EUROCRYPT 2023, [paper](https://eprint.iacr.org/2022/198.pdf), LMK+23
 
+- Transistor: a TFHE-friendly Stream Cipher
+  *Jules Baudrin, Sonia Bela¨ıd, Nicolas Bon, Christina Boura, Anne Canteaut, Ga¨etan Leurent, Pascal Paillier, L´eo Perrin, Matthieu Rivain, Yann Rotella, and Samuel Tap*
+  CRYPTO 2025, [paper](https://eprint.iacr.org/2025/282.pdf), BBB+25
+
 ### Multi-key FHE
 
 - On-the-Fly Multiparty Computation on the Cloud via Multikey Fully Homomorphic Encryption
