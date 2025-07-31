@@ -129,7 +129,7 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   
 - O-Ring and K-Star: Efficient Multi-party Private Set Intersection
   *Mingli Wu, Tsz Hon Yuen, Kwan Yin Chan*
-  USENIX 2024, [usenix](https://www.usenix.org/conference/usenixsecurity24/presentation/wu-mingli), WYC24
+  USENIX Security 2024, [usenix](https://www.usenix.org/conference/usenixsecurity24/presentation/wu-mingli), WYC24
   
 - Efficient Scalable Multi-Party Private Set Intersection(-Variants) from Bicentric Zero-Sharing
   *Ying Gao, Yuanchao Luo, Longxin Wang, Xiang Liu, Lin Qi, Wei Wang, Mengmeng Zhou*
