@@ -55,10 +55,6 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   *Nishanth Chandran, Divya Gupta, Akash Shah*
   PETS 2022, [eprint](https://eprint.iacr.org/2021/034), CGS22
 
-- Simple, Fast Malicious Multiparty Private Set Intersection
-  *Ofri Nevo, Ni Trieu, Avishay Yanai*
-  CCS 2021, [eprint](https://eprint.iacr.org/2021/1221), NTY21
-
 - Private Set Operations from Oblivious Switching
   *Gayathri Garimella, Payman Mohassel, Mike Rosulek, Saeed Sadeghian, Jaspal Singh*
   PKC 2021, [eprint](https://eprint.iacr.org/2021/243), GMRS21
@@ -117,6 +113,28 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   *Peter Rindal, Phillipp Schoppmann*
   EuroCrypt 2021, [eprint](https://eprint.iacr.org/2021/266), RS21
 
+## Multi-party PSI
+
+- Practical Multi-party Private Set Intersection from Symmetric-Key Techniques
+  *Vladimir Kolesnikov, Naor Matania, Benny Pinkas, Mike Rosulek, Ni Trieu*
+  CCS 2017, [eprint](https://eprint.iacr.org/2017/799.pdf), KMPR+17
+  
+- Efficient Linear Multiparty PSI and Extensions to Circuit/Quorum PSI
+  *Nishanth Chandran, Nishka Dasgupta, Divya Gupta, Sai Lakshmi Bhavana Obbattu, Sruthi Sekar, Akash Shah*
+  CCS 2021, [eprint](https://eprint.iacr.org/2021/172.pdf), CDGO+21
+  
+- Simple, Fast Malicious Multiparty Private Set Intersection
+  *Ofri Nevo, Ni Trieu, Avishay Yanai*
+  CCS 2021, [eprint](https://eprint.iacr.org/2021/1221), NTY21
+  
+- O-Ring and K-Star: Efficient Multi-party Private Set Intersection
+  *Mingli Wu, Tsz Hon Yuen, Kwan Yin Chan*
+  USENIX Security 2024, [usenix](https://www.usenix.org/conference/usenixsecurity24/presentation/wu-mingli), WYC24
+  
+- Efficient Scalable Multi-Party Private Set Intersection(-Variants) from Bicentric Zero-Sharing
+  *Ying Gao, Yuanchao Luo, Longxin Wang, Xiang Liu, Lin Qi, Wei Wang, Mengmeng Zhou*
+  CCS 2024, [ccs](https://dl.acm.org/doi/10.1145/3658644.3690245), GLWL+24
+
 ## Other Variants
 
 - Labeled PSI from Homomorphic Encryption with Reduced Computation and Communication
@@ -139,14 +157,3 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   *Gayathri Garimella, Mike Rosulek, Jaspal Singh*
   CRYPTO 2023, [eprint](https://eprint.iacr.org/2023/1166), GRS23
 
-- Efficient Scalable Multi-Party Private Set Intersection(-Variants) from Bicentric Zero-Sharing
-  *Ying Gao, Yuanchao Luo, Longxin Wang, Xiang Liu, Lin Qi, Wei Wang, Mengmeng Zhou*
-  CCS 2024, [ccs](https://dl.acm.org/doi/10.1145/3658644.3690245), GLWL+24
-  
-- Practical Multi-party Private Set Intersection from Symmetric-Key Techniques
-  *Vladimir Kolesnikov, Naor Matania, Benny Pinkas, Mike Rosulek, Ni Trieu*
-  CCS 2017, [eprint](https://eprint.iacr.org/2017/799.pdf), KMPR+17
-  
-- O-Ring and K-Star: Efficient Multi-party Private Set Intersection
-  *Mingli Wu, Tsz Hon Yuen, Kwan Yin Chan*
-  USENIX 2024, [usenix](https://www.usenix.org/conference/usenixsecurity24/presentation/wu-mingli), WYC24
