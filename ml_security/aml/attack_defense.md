@@ -41,6 +41,7 @@
 - [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.org/abs/1811.12470)
 - [(*) Local Model Poisoning Attacks to Byzantine-Robust Federated Learning. 2019-11-26](https://arxiv.org/pdf/1911.11815.pdf)
 - [Data Poisoning Attacks on Federated Machine Learning. 2020-04-19](https://arxiv.org/pdf/2004.10020.pdf)
+- [Not One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation. ACM CCS 2024](https://doi.org/10.1145/3658644.3670365)
 
 ### Free Rider Attack
 
