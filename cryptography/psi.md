@@ -146,3 +146,7 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 - Practical Multi-party Private Set Intersection from Symmetric-Key Techniques
   *Vladimir Kolesnikov, Naor Matania, Benny Pinkas, Mike Rosulek, Ni Trieu*
   CCS 2017, [eprint](https://eprint.iacr.org/2017/799.pdf), KMPR+17
+  
+- O-Ring and K-Star: Efficient Multi-party Private Set Intersection
+  *Mingli Wu, Tsz Hon Yuen, Kwan Yin Chan*
+  USENIX 2024, [usenix](https://www.usenix.org/conference/usenixsecurity24/presentation/wu-mingli), WYC24
