@@ -241,7 +241,7 @@ Traditional SRS usually need trusted setup per curcuit.
 
 - Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture
   *Eli Ben-Sasson, A. Chiesa, Eran Tromer, and M. Virza*
-  USENIX 2014, [paper](https://eprint.iacr.org/2013/879), BCT+14
+  USENIX Security 2014, [paper](https://eprint.iacr.org/2013/879), BCT+14
 
 - On the Size of Pairing-Based Non-Interactive Arguments
   *Groth Jens*
@@ -249,7 +249,7 @@ Traditional SRS usually need trusted setup per curcuit.
 
 - DIZK: A Distributed Zero Knowledge Proof System
   *Howard Wu, Wenting Zheng, Alessandro Chiesa, Raluca Ada Popa, and Ion Stoica*
-  USENIX 2018, [paper](https://eprint.iacr.org/2018/691), WZC+18
+  USENIX Security 2018, [paper](https://eprint.iacr.org/2018/691), WZC+18
 
 - Snarky Ceremonies
   *Markulf Kohlweiss, Mary Maller, Janno Siim, and Mikhail Volkhov*
@@ -409,7 +409,7 @@ Without trusted setup.
 
 - Zkboo: Faster zero-knowledge for boolean circuits
   *Irene Giacomelli, Jesper Madsen, and Claudio Orlandi*
-  USENIX 2016, [paper](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_giacomelli.pdf), GMO16
+  USENIX Security 2016, [paper](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_giacomelli.pdf), GMO16
 
 - Post-quantum zero-knowledge and signatures from symmetric-key primitives
   *Melissa Chase, David Derler, Steven Goldfeder, Claudio Orlandi, Sebastian Ramacher, Christian Rechberger, Daniel Slamanig, and Greg Zaverucha*
@@ -459,7 +459,7 @@ Without trusted setup.
 
 - Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning
   *Chenkai Weng, Kang Yang, Xiang Xie, Jonathan Katz, and Xiao Wang*
-  USENIX 2021. [paper](https://eprint.iacr.org/2021/730), WYX+21
+  USENIX Security 2021. [paper](https://eprint.iacr.org/2021/730), WYX+21
 
 - Improving Line-Point Zero Knowledge: Two Multiplications for the Price of One
   *Samuel Dittmer, Yuval Ishai, Steve Lu, and Rafail Ostrovsky*
@@ -502,7 +502,7 @@ Here just list several interesting applicaitons.
 
 - Scaling Verifiable Computation Using Efﬁcient Set Accumulators
   *Alex Ozdemir, Riad S Wahby, Barry Whitehat, and Dan Boneh*
-  USENIX 2020, [paper](https://www.usenix.org/conference/usenixsecurity20/presentation/ozdemir), OWW+20
+  USENIX Security 2020, [paper](https://www.usenix.org/conference/usenixsecurity20/presentation/ozdemir), OWW+20
 
 - Efficient Zero-Knowledge Proofs on Signed Data with Applications to Verifiable Computation on Data Streams
   *Dario Fiore, and Ida Tucker*
@@ -542,7 +542,7 @@ Here just list several interesting applicaitons.
 
 - Zero-Knowledge Middleboxes
   *Paul Grubbs, Arasu Arun, Ye Zhang, Joseph Bonneau, and Michael Walfish*
-  USENIX 2022, [paper](https://eprint.iacr.org/2021/1022), GAZ+22
+  USENIX Security 2022, [paper](https://eprint.iacr.org/2021/1022), GAZ+22
 
 - Zk-Creds: Flexible Anonymous Credentials from ZkSNARKs and Existing Identity Infrastructure
   *Michael Rosenberg, Jacob White, Christina Garman, and Ian Miers*
