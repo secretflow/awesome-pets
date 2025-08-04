@@ -431,6 +431,10 @@ Without trusted setup.
   *Cyprien de Saint Guilhem, Emmanuela Orsini, and Titouan Tanguy*
   CCS 2021, [paper](https://dl.acm.org/doi/pdf/10.1145/3460120.3484595), dOT21
 
+- Experimenting with Zero-Knowledge Proofs of Training 
+  *Sanjam Garg, Aarushi Goel, Somesh Jha, Saeed Mahloujifar, Mohammad Mahmoody, Guru-Vamsi Policharla, Mingyuan Wang*
+  CCS 2023, [paper](https://eprint.iacr.org/2023/1345.pdf), GGJMMPW23  
+
 #### VOLE-based (Commit-and-prove type)
 
 - Appenzeller to Brie: Efficient Zero-Knowledge Proofs for Mixed-Mode Arithmetic and Z2k
